@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+body{
+  background-color: #F5F5F5;
+}
+
+h1{
+  color: #008B8B;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
